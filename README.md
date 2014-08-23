@@ -43,7 +43,9 @@ chrome.identity.launchWebAuthFlow(options, function(redirect_url) {
 
 ### Response:
 
-![alt text](https://raw.githubusercontent.com/AnujaK/chrome-linkedin-oauth/master/assets/screenshot1.png "Token")
+![alt text](https://raw.githubusercontent.com/AnujaK/chrome-linkedin-oauth/master/assets/screenshot1.png "Access Permission")
+
+![alt text](https://raw.githubusercontent.com/AnujaK/chrome-linkedin-oauth/master/assets/screenshot2.png "Token")
 
 Copyright and License
 ==========
