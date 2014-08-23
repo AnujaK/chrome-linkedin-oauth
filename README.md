@@ -6,7 +6,7 @@ chrome-linkedin-oauth
 ### Step 1: 
 
 Go to LinkedIn Developer Network (https://www.linkedin.com/secure/developer), create new application and generate consumer key and secret. use the callback URL in the following form:
-https://<<CHROME_APP_ID>>.chromiumapp.org/<<ANYTHING_HERE>>
+https://CHROME_APP_ID.chromiumapp.org/ANYTHING_HERE
 e.g. I've used this:
 https://nlifplmndmkebhmmbbnipoiojlmbnnio.chromiumapp.org/linkedin_callback
 Note: Path param ANYTHING_HERE is used to distinguish it with redirect URIs from other providers.
